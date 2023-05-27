@@ -14,4 +14,4 @@ If you have any questions or inquiries, please contact PlayerPredictor.Insights@
 Enjoy using the NBA Player Performance Bot and make well-informed decisions in your NBA endeavors!
 
 
-NOTE: PLEASE USE THE RELEASE TAB TO THE RIGHT IN ORDER TO DOWNLOAD THE BOT ->
+NOTE: PLEASE USE THE RELEASES TAB TO THE RIGHT IN ORDER TO DOWNLOAD THE BOT OR THE FOLLOWING LINK: https://github.com/luhcbra/Player-Predictor-beta/releases
