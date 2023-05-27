@@ -12,3 +12,6 @@ Contact
 If you have any questions or inquiries, please contact PlayerPredictor.Insights@gmail.com.
 
 Enjoy using the NBA Player Performance Bot and make well-informed decisions in your NBA endeavors!
+
+
+NOTE: PLEASE USE THE RELEASE TAB TO THE RIGHT IN ORDER TO DOWNLOAD THE BOT ->
