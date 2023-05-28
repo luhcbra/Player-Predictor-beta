@@ -18,4 +18,6 @@ Enjoy using the NBA Player Performance Bot and make well-informed decisions in y
 NOTE: PLEASE USE THE RELEASES TAB IN ORDER TO DOWNLOAD THE BOT OR THE FOLLOWING LINK: https://github.com/luhcbra/Player-Predictor-beta/releases
 
 Example using bot:
+
+
 ![example](https://github.com/luhcbra/Player-Predictor-beta/assets/111718045/b32aaac4-e8fb-4df4-966c-705ef6518bbe)
