@@ -13,12 +13,6 @@ This project is licensed under the MIT License.
 Contact:
 If you have any questions or inquiries, please contact PlayerPredictor.Insights@gmail.com.
 
-Discord:
-https://discord.gg/T8EWKTtBYy
-
-Twitter:
-@OfficialPPBot
-
 Enjoy using the NBA Player Performance Bot and make well-informed decisions in your NBA endeavors!
 
 
