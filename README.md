@@ -20,4 +20,5 @@ NOTE: PLEASE USE THE RELEASES TAB IN ORDER TO DOWNLOAD THE BOT OR THE FOLLOWING 
 Example using bot:
 
 
-![example](https://github.com/luhcbra/Player-Predictor-beta/assets/111718045/b32aaac4-e8fb-4df4-966c-705ef6518bbe)
+
+![example](https://github.com/luhcbra/Player-Predictor-beta/assets/111718045/ec9dbb33-679a-4e95-8fbf-9d7322d47834)
